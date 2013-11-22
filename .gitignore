@@ -1,0 +1,8 @@
+#ignore files ending with .o or .a
+*.[oa]
+
+#ignore files ending with ~
+*~
+
+#ignore junk directory
+junk/
